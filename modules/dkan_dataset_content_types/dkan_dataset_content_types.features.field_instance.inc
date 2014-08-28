@@ -406,21 +406,21 @@ function dkan_dataset_content_types_field_default_field_instances() {
       'active' => 1,
       'module' => 'select_or_other',
       'settings' => array(
-        'available_options' => 'cc-by|Creative Commons Attribution
-cc-by-sa|Creative Commons Attribution Share-Alike
-cc-zero|Creative Commons CCZero
-cc-nc|Creative Commons Non-Commercial (Any)
-gfdl|GNU Free Documentation License
-notspecified|License Not Specified
-odc-by|Open Data Commons Attribution License
-odc-odbl|Open Data Commons Open Database License (ODbL)
-odc-pddl|Open Data Commons Public Domain Dedication and Licence (PDDL)
-other-at|Other (Attribution)
-other-nc|Other (Non-Commercial)
-other-closed|Other (Not Open)
-other-open|Other (Open)
-other-pd|Other (Public Domain)
-uk-ogl|UK Open Government Licence (OGL)',
+        'available_options' => 'Creative Commons Attribution|Creative Commons Attribution
+Creative Commons Attribution Share-Alike|Creative Commons Attribution Share-Alike
+Creative Commons CCZero|Creative Commons CCZero
+Creative Commons Non-Commercial (Any)|Creative Commons Non-Commercial (Any)
+GNU Free Documentation License|GNU Free Documentation License
+License Not Specified|License Not Specified
+Open Data Commons Attribution License|Open Data Commons Attribution License
+Open Data Commons Open Database License (ODbL)|Open Data Commons Open Database License (ODbL)
+Open Data Commons Public Domain Dedication and Licence (PDDL)|Open Data Commons Public Domain Dedication and Licence (PDDL)
+Other (Attribution)|Other (Attribution)
+Other (Non-Commercial)|Other (Non-Commercial)
+Other (Not Open)|Other (Not Open)
+Other (Open)|Other (Open)
+Other (Public Domain)|Other (Public Domain)
+UK Open Government Licence (OGL)|UK Open Government Licence (OGL)',
         'available_options_php' => '',
         'markup_available_options_php' => '&lt;none&gt;',
         'other' => 'Other',
